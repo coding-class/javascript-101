@@ -62,9 +62,10 @@ while (hello > 10) {
 ```
 ## Function
 
-## Web API
+## Browser API
 ```js
 var hello = document.write("hello");
 var hello = document.getElementById("hello");
+var name = prompt("siapa nama anda?");
 
 ```
