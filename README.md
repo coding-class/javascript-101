@@ -69,3 +69,6 @@ var hello = document.getElementById("hello");
 var name = prompt("siapa nama anda?");
 
 ```
+
+# Slides
+[Slide Link](https://docs.google.com/a/tokopedia.com/presentation/d/1EimgVNOeFo8DFo4fm3_a0_YqNXgUvgioSZFWYKrexso/edit?usp=sharing)
